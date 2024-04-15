@@ -2,11 +2,11 @@
 
 Create a simple personal website template with the following:
 
-- A header with a placeholder for a profile image and name
-- An "About Me" section with placeholder text 
-- A "Projects" or "Experience" section with placeholder content
+- A header with a placeholder for a profile image and name 
+- An "About Me" section with placeholder text
+- A "Projects" or "Experience" section with placeholder content 
 - A "Contact Me" section with placeholder contact info or a contact form
-- A simple, clean design
+- A clean, professional design
 
 Use "James Polk" as the name for now. We'll fill in the real content later once I have more info from the user.
 
